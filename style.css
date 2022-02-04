@@ -1,0 +1,16 @@
+.main{
+    display:flex;
+    flex-direction: column;
+}
+.knop{
+    display:flex;
+    flex-direction: row;
+}
+.big{
+    width:600px;
+    height:600px;
+}
+h1{
+    color:blue;
+    font-size:20px;
+}
